@@ -1,11 +1,11 @@
-# NativeBox-ais001 — MCore One-Command Delivery
+# NativeBox-ais001 — pmics One-Command Delivery
 
-This repository is being initialized under **MCORE-ONECMD-DELIVERY-001**.
+This repository is being initialized under **pmics-ONECMD-DELIVERY-001**.
 
 ## Current state
 
 - Initial repository bootstrap only.
-- Application source and the reported `mcore-architecture.zip` have not yet been inspected or imported.
+- Application source and the reported `pmics-architecture.zip` have not yet been inspected or imported.
 - No deployment has been performed.
 - No Cloudflare resources, DNS records, KVM services, or paid resources have been provisioned or changed.
 
